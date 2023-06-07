@@ -1,0 +1,26 @@
+{
+  "name": "ucare",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.22.0",
+    "@vueuse/motion": "^2.0.0-beta.12",
+    "firebase": "^9.22.0",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "pinia": "^2.0.36",
+    "vant": "^4.3.2",
+    "vue": "^3.3.2",
+    "vue-router": "^4.2.0",
+    "vuetify": "^3.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.3.5"
+  }
+}
